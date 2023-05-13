@@ -1,11 +1,11 @@
 """The module's docstring"""
 # This program adds two numbers
 
-num1 = 1.5
-num2 = 6.3
+Num1 = 1.5
+Num2 = 6.3
 
 # Add two numbers
-sum_numbers = num1 + num2
+Sum_numbers = num1 + num2
 
 # Display the sum
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+B = f'The sum of {Num1} and {Num2} is {Sum_numbers}'
