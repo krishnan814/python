@@ -1,3 +1,4 @@
+"""The module's docstring"""
 # This program adds two numbers
 
 num1 = 1.5
