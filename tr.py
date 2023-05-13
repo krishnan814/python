@@ -5,7 +5,7 @@ NUM1 = 1.5
 NUM2 = 6.3
 
 # Add two numbers
-Sum_numbers = NUM1 + NUM2
+SUM_NUM = NUM1 + NUM2
 
 # Display the sum
-B = f'The sum of {NUM1} and {NUM2} is {Sum_numbers}'
+B = f'The sum of {NUM1} and {NUM2} is {SUM_NUM}'
